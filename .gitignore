@@ -1,0 +1,8 @@
+target/
+test-output/
+screenshots/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "employee": {
+    "firstName": "Sadiq",
+    "lastName": "Automation",
+    "employeeId": "9911",
+    "profilePicturePath": "src/test/resources/profile-pic.png",
+    "updatedJobTitle": "QA Lead - OS Specialist",
+    "updatedEmploymentStatus": "Full-Time Permanent"
+  }
+}
